@@ -1,0 +1,94 @@
+🏆 Ejercicio 1: Alinear elementos en fila
+
+Objetivo: Crear un contenedor con tres elementos alineados horizontalmente.
+
+📌 Instrucciones:
+
+    Crea un div con la clase container.
+    Dentro, agrega tres div con la clase item.
+    Usa display: flex para colocarlos en fila.
+
+
+    
+    
+Ejercicio 2: Centrar un elemento en pantalla
+
+Objetivo: Centrar un div en el centro exacto de la pantalla.
+
+📌 Instrucciones:
+
+    Crea un div con la clase box.
+    Usa display: flex, justify-content: center y align-items: center.
+    Establece height: 100vh en el contenedor.
+
+
+
+    🔄 Ejercicio 3: Distribuir elementos uniformemente
+
+Objetivo: Crear una barra de navegación con botones distribuidos equitativamente.
+
+📌 Instrucciones:
+
+    Crea un nav con la clase navbar.
+    Dentro, agrega 4 div con la clase nav-item.
+    Usa display: flex y justify-content: space-around.
+
+
+    Ejercicio 4: Grid flexible con flex-wrap
+
+Objetivo: Crear una cuadrícula de elementos flexibles.
+
+📌 Instrucciones:
+
+    Crea un div con la clase grid.
+    Dentro, coloca 8 div con la clase cell.
+    Usa display: flex y flex-wrap: wrap para que se acomoden en varias filas.
+
+
+    Ejercicio 5: Sidebar y contenido principal
+
+Objetivo: Crear un layout con un menú lateral y un contenido principal.
+
+📌 Instrucciones:
+
+    Crea un div con la clase container.
+    Dentro, coloca dos div: uno con la clase sidebar y otro con main-content.
+    Usa display: flex para que sidebar ocupe el 25% y main-content el 75%.
+
+
+
+    Footer pegado abajo
+
+Objetivo: Crear una estructura donde el footer quede pegado al final de la pantalla.
+
+📌 Instrucciones:
+
+    Crea un div con la clase footer.
+    Dentro, coloca dos div: uno con la clase content y otro con pie.
+    Usa display: flex con flex-direction: column y flex-grow para que el contenido empuje el footer hacia abajo.
+
+
+
+
+    Objetivo: Crear un grupo de tarjetas (cards) que se ajusten automáticamente al tamaño disponible.
+
+📌 Instrucciones:
+
+    Crea un div con la clase cards-container.
+    Dentro, coloca varias div con la clase card.
+    Usa display: flex y flex-grow para que todas las tarjetas ocupen el mismo espacio.
+
+
+    Ejercicio 9: Justificar un título y botones
+
+Objetivo: Alinear un título a la izquierda y botones a la derecha dentro de un header.
+
+📌 Instrucciones:
+
+    Crea un header con la clase header.
+    Dentro, coloca un h1 con la clase title y un div con la clase buttons que tenga dos botones.
+    Usa display: flex y justify-content: space-between.
+
+
+
+    
