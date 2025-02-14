@@ -141,9 +141,12 @@ body {
 
 
 }
-
+button:nth-child(1){
+    order: 2;
+}
 .buttons button:hover {
     background-color: #43b3ad;
+
 
 }
 
